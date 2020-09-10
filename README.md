@@ -16,4 +16,7 @@ https://ynrshi.github.io/Nicomment4best-friends/
 * コメントをクリックしてもふぁぼれない
 * 改行はしません(諦めました)
 
+## 非推奨
+* PC以外で閲覧するとうまく動かないのでPCで閲覧してください。
+
 以上
