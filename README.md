@@ -14,5 +14,6 @@ https://ynrshi.github.io/Nicomment4best-friends/
 ## できないこと
 * コメント(トゥート)ができない
 * コメントをクリックしてもふぁぼれない
+* 改行はしません(諦めました)
 
 以上
