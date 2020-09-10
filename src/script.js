@@ -38,7 +38,6 @@ async function createText(content, contentLength) {
 
     // レーンが全て埋まっている場合、キューに溜める
     if (!check){
-        console.log("滞留");
         queue.push([content, contentLength]);
         return;
     }
@@ -50,7 +49,6 @@ async function createText(content, contentLength) {
         const sleepTime = contentLength <= 10 ? 4000 : 5000;
         await sleep(sleepTime);
         lanes[i] = false;
-        console.log(`${i}列目が空きました。`);
         await sleep(8000 - sleepTime);
         container.removeChild(divText);
         
