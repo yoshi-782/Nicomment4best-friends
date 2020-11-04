@@ -6,7 +6,7 @@
 
 ## 使い方
 以下のURLにアクセスすれば見れます。  
-https://ynrshi.github.io/Nicomment4best-friends/
+https://yoshi-782.github.io/Nicomment4best-friends/
 
 ## できること
 * 閲覧のみ
